@@ -2,13 +2,13 @@
 
 💻 Desenvolvedor em constante aprendizado  
 📚 Interessado em programação, tecnologia e criação de aplicações úteis  
-🚀 Explorando React, Vite e o mundo do desenvolvimento web/mobile  
+🚀 Explorando React e o mundo do desenvolvimento web/mobile  
 
 ---
 
 ## 🔧 Tecnologias que uso/estudo
 - JavaScript / TypeScript
-- React / Vite
+- React
 - Node.js
 - HTML / CSS / Tailwind
 
